@@ -32,5 +32,5 @@ Ex; (Raj Roger: rajmahal), (George Hotz: hotzpotato).
 # Instructions on Git Pull/Submitting
 *In covid19-hackathon repository*
 > git pull
-*Explain waht this does*
+*Explain what this does*
 
