@@ -1,6 +1,7 @@
 # COVID19HACKATHON SIGNUP
 *do not edit template just replace entire text with response between header(h2) "##" inside brackets*
-> $ git clone https://github.com/MinorityProgrammers/covid19-hackathon.git
+> fork this repo
+> $ git clone https://github.com/YOUR_USER/covid19-hackathon.git
 
 ## Name
 *Put your name here*
@@ -31,6 +32,6 @@ Ex; (Raj Roger: rajmahal), (George Hotz: hotzpotato).
 
 # Instructions on Git Pull/Submitting
 *In covid19-hackathon repository*
-> git pull
-*Explain what this does*
+![First MPA Signup Instructions](https://i.groupme.com/648x433.png.1e65c729da0a4fecab121e8e462736e9.large)
+![Second MPA SIgnup Instructions](https://i.groupme.com/657x280.png.9ab342f44f014540b89f6469df429dfb.large)
 
