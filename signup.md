@@ -1,6 +1,6 @@
 # COVID19HACKATHON SIGNUP
 *do not edit template just replace entire text with response between header(h2) "##" inside brackets*
-$ git clone https://github.com/MinorityProgrammers/covid19-hackathon.git
+> $ git clone https://github.com/MinorityProgrammers/covid19-hackathon.git
 
 ## Name
 *Put your name here*
