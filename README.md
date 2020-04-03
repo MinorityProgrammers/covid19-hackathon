@@ -1,4 +1,4 @@
-!()[https://i.groupme.com/905x567.png.3e7cd350e9044cd19e13e382f4b005ab]
+![](https://i.groupme.com/905x567.png.3e7cd350e9044cd19e13e382f4b005ab)
 # Premise
 In a race to end in COVID-19 in its track the world is coming together to tackle the disease from all facets. We decided especially, in tough economic times, to inspire people to use STEM to join the fight, but putting $1000 prize on a weeklong challenge. 
 ## Challenge 
