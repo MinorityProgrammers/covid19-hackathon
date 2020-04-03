@@ -1,5 +1,6 @@
 # COVID19HACKATHON SIGNUP
 *do not edit template just replace entire text with response between header(h2) "##" inside brackets*
+$ git clone https://github.com/MinorityProgrammers/covid19-hackathon.git
 
 ## Name
 *Put your name here*
@@ -27,3 +28,6 @@ Ex; (Raj Roger: rajmahal), (George Hotz: hotzpotato).
 *Ex; Ruby, Python, Javascript*
 ## Social Media Contact (optional)
 *facebook, twitter, linkedin*
+
+# Instructions on Git Pull/Submitting
+
