@@ -1,17 +1,17 @@
 # COVID19HACKATHON SIGNUP
 *do not edit template just replace entire text with response between header(h2) "##" inside brackets*
+> fork this repository https://github.com/MinorityProgrammers/covid19-hackathon.git
 > $ git clone https://github.com/MinorityProgrammers/covid19-hackathon.git
 
 ## Name
 *Put your name here*
-Ex; Raj Rogers
+Raj Rogers
 ## E-Mail
-*Where we can contact you with official instruction*
+raj@gmail.com
 ## Username
-*Put your github username here*
-Ex; rajmahal
+rajmahlly
 ## Age
-*Year* Ex; 19 (if 19 years old)
+20
 ## Country of Residence
 Ex; United States
 ## Team Members 
