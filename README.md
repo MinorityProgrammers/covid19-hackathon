@@ -1,4 +1,4 @@
-![](https://i.groupme.com/905x567.png.3e7cd350e9044cd19e13e382f4b005ab)
+![COVIDHACKATHON MINORITYPROGRAMMERS](https://i.groupme.com/905x567.png.3e7cd350e9044cd19e13e382f4b005ab)
 # Premise
 In a race to end in COVID-19 in its track the world is coming together to tackle the disease from all facets. We decided especially, in tough economic times, to inspire people to use STEM to join the fight, but putting $1000 prize on a weeklong challenge. 
 ## Challenge 
@@ -14,7 +14,7 @@ Develop a software solution (as a shippable product) that addresses one or more 
 
 # Registration Process
 ## First Method (Form - Easy)
-Submit information on this form https://forms.gle/ZtjxK7zYiZ6NT2VG7
+Submit information on this form https://forms.gle/jMA21pfvScLMZke87
 
 ## After You Submit
 * You will be sent invitation to join Minority Programmers Association Github organization where you will be placed on team
