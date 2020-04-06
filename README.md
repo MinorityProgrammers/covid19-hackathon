@@ -2,7 +2,7 @@
 # Premise
 In a race to end in COVID-19 in its track the world is coming together to tackle the disease from all facets. We decided especially, in tough economic times, to inspire people to use STEM to join the fight, but putting $1000 prize on a weeklong challenge. 
 ## Challenge 
-You have 13 days (Sunday April 5, 10:00AM EST - Friday April 17, 11:59PM EST) for your team (1-5 people) to develop a coding solution to reduce harm and improve quality of life during the COVID-19 pandemic. 
+You until Friday April 17, 11:59PM EST for your team (1-5 people) to develop a coding solution to reduce harm and improve quality of life during the COVID-19 pandemic. 
 
 ## Your Task
 Develop a software solution (as a shippable product) that addresses one or more of the following problems that have arisen as a result of the global COVID-19 pandemic.
@@ -19,6 +19,9 @@ Submit information on this form https://forms.gle/jMA21pfvScLMZke87
 ## After You Submit
 * You will be sent invitation to join Minority Programmers Association Github organization where you will be placed on team
 * Join our Discord server to stay updated with competition updates, ask questions, and learn from other competitors! https://discord.gg/KYutrY8
+
+### Submit Here
+https://forms.gle/8RmhafuF9G8jkmmX6
 
 # Competition Guidelines
 ## Team Guidelines
