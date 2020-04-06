@@ -8,8 +8,8 @@ You have 13 days (Sunday April 5, 10:00AM EST - Friday April 17, 11:59PM EST) fo
 Develop a software solution (as a shippable product) that addresses one or more of the following problems that have arisen as a result of the global COVID-19 pandemic.
 
 # When
-### Start Date: Sunday April 5th, 10:00 AM EST
-### End Date: Friday April 17th, 11:59 PM EST
+### Start Date: Sunday April 5th, 10:00 AM EST (Can Enter After)
+### End Date: Friday April 17th, 11:59 PM EST (Submission Deadline)
 ### Winner Announced: on YouTube: Monday, April 20th, 7 PM EST
 
 # Registration Process
