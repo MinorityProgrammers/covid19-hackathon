@@ -9,7 +9,8 @@ Develop a software solution (as a shippable product) that addresses one or more 
 
 # When
 ### Start Date: Sunday April 5th, 10:00 AM EST (Can Enter After)
-### End Date: Friday April 17th, 11:59 PM EST (Submission Deadline)
+### End Date: Friday April 24th, 11:59 PM EST (Submission Deadline) 
+#### CHANGED FROM APRIL 17th Upon Request
 ### Winner Announced: on YouTube: Monday, April 20th, 7 PM EST
 
 # Registration Process
